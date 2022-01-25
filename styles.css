@@ -1,0 +1,48 @@
+/* basic styling for overall website*/
+
+* {
+    background-color: #FBFAF8;
+    color: #0A122A;
+    font-family: Helvetica, "Trebuchet Ms", sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.img-main {
+    width: 500px;
+    height: auto;
+}
+
+/* home style */
+
+#home {
+    text-align: center;
+}
+
+.img-mini {
+    width: 200px;
+    height:auto
+}
+
+.category {
+    font-size: 30px;
+    background-color: #E7DECD;
+}
+
+.recipe-name {
+    font-size: 18px;
+    color: #6F1A07;
+}
+
+/* recipes style*/
+
+.topic {
+    color: #6F1A07;
+}
+
+.return {
+    color: #6C809A;
+    font-size: 16px;
+}
